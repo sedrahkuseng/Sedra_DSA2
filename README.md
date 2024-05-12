@@ -12,13 +12,23 @@ bash
 
 # Copy code
 git clone "https://github.com/sedrahkuseng/Sedra_DSA2.git"
+
+
 cd Sedra_DSA2
+
+
 cd src
+
+
 
 
 # Compile and Run a Specific Problem:
 To compile and run any of the 12 problems, use g++ followed by the name of the program file. For example, to run Problem 7, enter:
 bash
 Copy code
+
+
 g++ problem7.cpp
+
+
 ./problem7.exe
